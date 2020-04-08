@@ -1,0 +1,45 @@
+body{
+    font: arial 15pt;
+    background: rgb(138, 206, 206);
+    
+}
+header{
+   color: white;
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}ection{
+    background: azure;
+    color: black;
+    border-radius: 15px;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 2px 2px   rgba(0, 0, 0, 0.233);
+    font-family: "Darker grotesque";
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+    font-family: "Billabong";
+    font-size: 20px;
+    border-radius: 50px;
+    width: 500px;
+    margin: auto;
+}
+.yellow{
+    color: rgb(248, 248, 80);
+}
+input{
+    border-radius: 5px;
+    box-sizing: inherit;
+    color: gray;
+    font-family: "Darker Grotesque";
+    font-size: 18px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
